@@ -1,0 +1,27 @@
+git clone URL
+cd directorio
+git status/commit
+gedit README.md #Y lo hemos modificado
+git status
+git diff
+---------------------------------------
+git add README.md #Añadimos el fichero al stage/intercambio
+git commit README.md #Escribimos el mensaje
+git push #Envia los cambios del repositorio local al remoto
+---------------------------------------
+git pull # para traerte los cambios al ordenador
+----------------
+RAMAS:
+
+git branch #Te dice en que rama estas
+git branch test #Crea la rama test
+git checkout test #Para cambiar de rama
+git push origin test #Para subir la rama test al git!!!
+
+
+git merge #para fusionar las ramas
+
+Nos posicionamos en la master
+
+git merge test #fusiona la master con la test
+git fetch #Parecido al pull
