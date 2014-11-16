@@ -17,6 +17,6 @@ De 100 a 400 siendo 400 lo máximo.
 - 200 Ordenar agenda
 - 300 Mostrar por pantalla
 - 100 Hacer copia de seguridad
-- 
+
 --> Modificar numeración de copia de seguridad
 --> Añadir el github en la portada de Antonio
