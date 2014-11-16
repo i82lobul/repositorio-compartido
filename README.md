@@ -5,7 +5,7 @@ Versiones subidas
 - Subida la versión 2 ( la modificación del profesor )
 - Subida la version 3 ( la modificación del archivo por parte de Cristobal y Laura )
 - Subida la version 4 ( añadidos los diagramas de casos de uso )
-
+- Subida la version 5 (Añadido parte Francisco y finalizado)
 Prioridad
 ===================================
 De 100 a 400 siendo 400 lo máximo.
